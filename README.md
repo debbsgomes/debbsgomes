@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=debbsgomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=debbsgomes&layout=compact&langs_count=8&theme=dark"/>
 </div>
-<br>
+<br>  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="debbs-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
