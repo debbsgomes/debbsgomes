@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Deborah Gomes!!
 
-- 🔭 I'm currently working with front-end, specifically Angular, using TypeScript and I've already worked and I know how to use Java.
-- 🌱 I'm focusing on improving my knowledge in general, but mainly Algorithms and Data Structures, improving my TypeScript and my knowledge of Architecture and System Design.
+- 🔭 I'm a full-stack developer, specifically with Angular and Java.
+- 🌱 I'm focusing on improving my knowledge in general, but mainly Algorithms and Data Structures, improving my TypeScript and Java skills, and also my knowledge of Architecture and System Design.
 - 📫 How to reach me: debbsgomes@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Biggest Pokemon and One Piece fan ever.
+- ⚡ Fun fact: I am the biggest Pokemon and One Piece fan ever.
 <br>
 
 <div align="center">
