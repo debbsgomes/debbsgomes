@@ -4,7 +4,7 @@
 - 🌱 I'm focusing on improving my knowledge in general, but mainly Algorithms and Data Structures, improving my TypeScript and Java skills, and also my knowledge of Architecture and System Design.
 - 📫 How to reach me: debbsgomes@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am the biggest Pokemon and One Piece fan ever.
+- ⚡ Fun fact: I learned how to speak English by listening to 2000s rap and pop songs.
 <br>
 
 <div align="center">
