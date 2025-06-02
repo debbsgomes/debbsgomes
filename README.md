@@ -14,8 +14,6 @@
 </div> 
 <br>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=debbsgomes&theme=darkhub&no-frame=true&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="debbs-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">          
   <img align="center" alt="debbs-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
