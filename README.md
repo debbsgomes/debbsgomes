@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Deborah Gomes!!
 
-- 🔭 I'm a full-stack developer, specifically with Angular, Java, React, and Node.
+- 🔭 I'm a full-stack developer, specifically with Angular, Java, React, Node and Go.
 - 🌱 I'm focusing on improving my knowledge in general, but mainly Algorithms and Data Structures, improving my TypeScript and Java skills, and also my knowledge of Architecture and System Design.
 - 📫 How to reach me: debbsgomes@gmail.com
 - 😄 Pronouns: she/her
